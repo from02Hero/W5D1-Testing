@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+
+    <string name="enter_check_amount">Check</string>
+    <string name="tip_percentage_label">Tip Percentage</string>
+    <string name="total_label">Total</string>
+
+    <string name="total_output_label">Total</string>
+    <string name="tip_output_label">Tip</string>
+    <string name="check_amount_output_label">Check</string>
+
+    <string name="dollar_amount">$%1$.02f</string>
+
+    <string name="save_hint">Enter Location</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+
+    <string name="action_load">Load</string>
+
+</resources>
